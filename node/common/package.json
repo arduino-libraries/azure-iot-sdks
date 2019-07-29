@@ -6,7 +6,7 @@
   "license": "MIT",
   "main": "common.js",
   "dependencies": {
-    "amqp10": "2.1.2",
+    "amqp10": "2.2.3",
     "mqtt": "^1.5.0",
     "crypto": "^0.0.3"
   },
