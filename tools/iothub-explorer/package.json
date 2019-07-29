@@ -7,7 +7,7 @@
   "main": "iothub-explorer.js",
   "bin": "iothub-explorer.js",
   "dependencies": {
-    "amqp10": "2.1.2",
+    "amqp10": "2.2.3",
     "azure-iot-common": "1.0.0-preview.8",
     "azure-iothub": "1.0.0-preview.8",
     "bluebird": "^3.0.1",
